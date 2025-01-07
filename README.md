@@ -30,3 +30,14 @@ This project is an apparel recommender system built using Streamlit. The applica
     ```
 2. Open your web browser and go to `http://localhost:8501` to access the application.
 
+
+## Live URL
+
+To access the version go to `https://apparel-recommender-yaswanth.streamlit.app/` 
+
+
+## Enhancements
+
+1. This is a basic version so trying to replicate amazon product searching
+
+2. Will try to do the application using live data instead on a data extract
