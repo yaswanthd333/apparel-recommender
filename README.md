@@ -33,7 +33,7 @@ This project is an apparel recommender system built using Streamlit. The applica
 
 ## Live URL
 
-To access the version go to `https://apparel-recommender-yaswanth.streamlit.app/` 
+To access the version go to [https://apparel-recommender-yaswanth.streamlit.app/](Apparel Recommender)
 
 
 ## Enhancements
